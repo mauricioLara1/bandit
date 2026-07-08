@@ -1,0 +1,9 @@
+# Contraseñas reales obtenidas en cada nivel de Bandit — quedan solo en tu máquina
+bandit/passwords.md
+
+# Basura típica de editores/SO que no debe subirse a un repo
+.DS_Store
+*.swp
+*~
+__pycache__/
+*.pyc
